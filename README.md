@@ -15,3 +15,6 @@ STEPS INVOLVED:
 [x] create a settings.json file to vs code Linting, pep8 & autopep as well as pointing to relevant paths for both python and venv.  
 [x] run `django-admin startproject djangorreact`  
 [x] change the root 'djangorreact' name to 'src'  
+[x] run `python manage.py startapp myapp` 
+[x] go to settings.py and in installed apps, enter 'rest_framework' as well as 'myArticles'  
+[x] also copy the restframework dictionary found in their page that helps in using browsable APIs  
