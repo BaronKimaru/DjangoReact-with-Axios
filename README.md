@@ -5,7 +5,7 @@ Django
 Djangorestframework
 node & npm
 
-STEPS INVOLVED: 
+#### STEPS INVOLVED: 
 [x] mkdir djangoreact && cd djangoreact  
 [x] Open vscode with this command in your cmd `code .` then now work from vscode terminal  
 [x] mkdir backend && mkdir frontend && cd backend  
